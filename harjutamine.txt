@@ -1,1 +1,2 @@
 GitHub on veebimajutusteenust tarkvaraarenduseks tarkvaraarendajatele.
+Saan kasutada GitHubi kodutööde esitamiseks(peamiselt programeerimis alused kodutööd).
